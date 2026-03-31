@@ -22,8 +22,8 @@ It demonstrates practical Natural Language Processing (NLP) and transformer-base
 * FastAPI
 * Hugging Face Transformers
 * PyTorch
-* HTML / CSS
-* Jupyter Notebook
+* HTML / CSS / JS
+* Jupyter Lab
 
 ---
 
