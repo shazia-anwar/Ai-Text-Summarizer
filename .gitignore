@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 .env
 saved_summary_model/
+results/
+
+# Ignore datasets
+*.csv
+
+# Ignore Jupyter auto files
+.ipynb_checkpoints/
+.virtual_documents/
