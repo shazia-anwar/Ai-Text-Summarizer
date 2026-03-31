@@ -57,6 +57,7 @@ T5 is a transformer-based model that generates human-like summaries by understan
 
 ## Project Structure
 
+```
 Text Summarizer App/
 │── app.py
 │── Text_Summarizer_Using_HuggingFace_Transformer.ipynb
@@ -65,30 +66,31 @@ Text Summarizer App/
 │── Screenshots/
 │── .gitignore
 │── README.md
+```
 
 ---
 
 ## Installation & Setup
 
 ### Clone the repository
-
+```bash
 git clone https://github.com/shazia-anwar/Ai-Text-Summarizer.git
 cd Ai-Text-Summarizer
+```
 
 ### Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 ### Run the application
-
+```bash
 uvicorn app:app --reload
+```
 
 ### Open in browser
 
 http://127.0.0.1:8000
-
----
-
 ## Use Cases
 
 * Summarizing long articles
