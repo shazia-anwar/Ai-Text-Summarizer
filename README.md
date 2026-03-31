@@ -113,14 +113,10 @@ http://127.0.0.1:8000
 
 ## Author
 
-# Shazia Anwar (Shaz)
+### Shazia Anwar (Shaz)
+Aspiring AI & Machine Learning Developer
 
-**Aspiring AI & Machine Learning Developer**
-
----
-
-### GitHub
-https://github.com/shazia-anwar
+🔗 GitHub: https://github.com/shazia-anwar
 
 ---
 
